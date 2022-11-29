@@ -1,0 +1,26 @@
+5
+0 0    start    b    se
+1 0    arrow    b    se
+2 0    arrow    b    sw se
+3 0    arrow    b    w sw
+4 0    arrow    b    s
+0 1    arrow    b    ne
+1 1    arrow    b    sw
+2 1    arrow    b    w se
+3 1    arrow    b    sw ne
+4 1    arrow    b    nw
+0 2    arrow    b    se
+1 2    arrow    b    se nw
+2 2    arrow    b    se
+3 2    arrow    b    sw ne
+4 2    arrow    b    s
+0 3    arrow    b    ne
+1 3    arrow    b    sw
+2 3    arrow    b    w s
+3 3    arrow    b    e
+4 3    arrow    b    s
+0 4    arrow    b    n e
+1 4    arrow    b    ne
+2 4    arrow    b    w e
+3 4    arrow    b    nw
+4 4    goal     None None

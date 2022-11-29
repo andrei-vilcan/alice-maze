@@ -1,0 +1,17 @@
+4
+0 0    arrow    b    e s
+1 0    arrow    b    w e
+2 0    arrow    b    w s e
+3 0    arrow    y    s
+0 1    start    b    e
+1 1    arrow    b    n
+2 1    arrow    b    s
+3 1    arrow    b    s
+0 2    arrow    b    n
+1 2    arrow    b    n w s
+2 2    arrow    b    w
+3 2    arrow    b    w s
+0 3    arrow    r    n
+1 3    arrow    b    w
+2 3    arrow    b    w e
+3 3    goal     None None

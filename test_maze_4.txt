@@ -1,0 +1,5 @@
+2
+0 0    start    b    e
+1 0    arrow    r    sw
+0 1    arrow    b    ne
+1 1    goal     None None

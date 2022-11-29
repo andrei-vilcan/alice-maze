@@ -1,0 +1,10 @@
+3
+0 0    arrow    r    s se e
+1 0    goal     None None
+2 0    arrow    y    sw
+0 1    arrow    b    n
+1 1    arrow    b    n
+2 1    arrow    b    sw
+0 2    start    b    n e
+1 2    arrow    b    e
+2 2    arrow    b    n
